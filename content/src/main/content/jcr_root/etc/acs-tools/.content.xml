@@ -10,4 +10,5 @@
     <explain-query/>
     <tag-maker/>
     <test-page-generator/>
+    <content-find-replace/>
 </jcr:root>
