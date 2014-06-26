@@ -11,4 +11,5 @@
     <tag-maker/>
     <test-page-generator/>
     <content-find-replace/>
+    <find-and-replace/>
 </jcr:root>
